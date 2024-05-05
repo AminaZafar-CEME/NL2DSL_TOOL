@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Downloads/flatlaf-demo-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Downloads/pdfbox-app-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Documents/amina/MS/NLP-1/nlp-2/stanford-corenlp-4.5.4/ejml-core-0.39.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Documents/amina/MS/NLP-1/nlp-2/stanford-corenlp-4.5.4/stanford-corenlp-4.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Documents/amina/MS/NLP-1/nlp-2/stanford-corenlp-4.5.4/stanford-corenlp-4.5.4-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Documents/amina/MS/NLP-1/nlp-2/stanford-corenlp-4.5.4/stanford-corenlp-4.5.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Documents/amina/MS/NLP-1/nlp-2/stanford-corenlp-4.5.4/stanford-corenlp-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Documents/amina/MS/NLP-1/nlp-2/stanford-corenlp-4.5.4/slf4j-simple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AminaSoftware/Downloads/itextpdf-5.4.0.jar/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
